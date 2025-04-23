@@ -25,7 +25,6 @@ int main(void)
 // calculando a média
 float average(int length, float array[])
 {
-
     float sum = 0;
     for (int i = 0; i < length; i++)
     {
