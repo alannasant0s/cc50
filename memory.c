@@ -3,7 +3,7 @@
 
 int main(void)
 {
-    int *x = malloc(3 * sizeof(int)); // Guarda na memoria 3 inteiros
+    int *x = malloc(3 * sizeof(int)); //Guarda na memoria 3 inteiros
     x[0] = 72;
     x[1] = 73;      
     x[2] = 74;
