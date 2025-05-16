@@ -1,5 +1,3 @@
-
-
 #include <stdint.h>
 #include <stdio.h>
 #include <stdlib.h>
@@ -30,7 +28,6 @@ int main(int argc, char *argv[])
     }
 
     float factor = atof(argv[3]);
-
 
     fclose(input);
     fclose(output);
