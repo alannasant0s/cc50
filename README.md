@@ -1,4 +1,4 @@
-CS50 - Harvard
+CS50 
 Repositório com meus exercícios, projetos e anotações do curso CS50 de Harvard, introdução à Ciência da Computação.
 
 Sobre o Curso
