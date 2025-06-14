@@ -15,4 +15,8 @@ O CS50 aborda os fundamentos da programação e pensamento computacional, inclui
 - VS Code
 
 #### 🛠 Tecnologias
-C Python SQL JavaScript Git
+- C 
+- Python 
+- SQL 
+- JavaScript 
+- Git
